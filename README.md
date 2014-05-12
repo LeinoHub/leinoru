@@ -1,5 +1,5 @@
 Generative animation 
+=======
 
-=====================
+Read code!
 
-Read code, it's all commented!
